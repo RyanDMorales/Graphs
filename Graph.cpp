@@ -28,6 +28,7 @@ void Graph::createGraph(ArrayMatrix *matrix){
 
 
 }
+//this is a test
 
 void Graph::clearGraph(){
     for(int index = 1; index < gSize; index++){
