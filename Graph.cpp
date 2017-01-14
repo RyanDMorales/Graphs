@@ -27,6 +27,7 @@ void Graph::createGraph(ArrayMatrix *matrix){
     gSize = matrix->getNumOfVectCols() + 1;
 
 
+
 }
 //this is a test
 
